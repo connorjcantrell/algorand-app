@@ -8,6 +8,8 @@ This tutorial is designed to get you started with Algorand development in a step
 ## Create a local, private network using Algorand Sandbox
 A development environment requires getting access to an Algorand node. You need to access a node to submit new transactions, read data from the blockchain, and manage wallets.
 
+The most-used option is setting up the Algorand sandbox. The sandbox allows developers to create local, private networks. This what we will be using.
+
 Open a terminal and run:
 ```
 git clone git clone https://github.com/algorand/sandbox.git
