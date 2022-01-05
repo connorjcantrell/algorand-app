@@ -10,6 +10,7 @@ A development environment requires getting access to an Algorand node. You need 
 
 Open a terminal and run:
 ```
+git clone git clone https://github.com/algorand/sandbox.git
 cd sandbox
 ./sandbox up
 ```
@@ -18,3 +19,4 @@ cd sandbox
 This will run the sandbox shell script with the default configuration
 
 For more details visit: https://github.com/algorand/sandbox)
+
