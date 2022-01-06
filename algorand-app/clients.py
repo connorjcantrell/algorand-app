@@ -1,7 +1,7 @@
 import json
 from algosdk.v2client import algod, indexer
 
-with open("../clients.json", 'r') as rf:
+with open("../config.json", 'r') as rf:
     data = rf.read()
 
 obj = json.loads(data)
