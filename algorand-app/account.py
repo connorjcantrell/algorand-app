@@ -18,7 +18,7 @@ class Account():
     def balance(self):
         """Return this instance's balance in microAlgos"""
         return account_balance(self.address)
-    
+
     def send_transaction(self):
         pass
 
