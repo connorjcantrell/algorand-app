@@ -21,7 +21,7 @@ This will run the sandbox shell script with the default configuration
 For more details visit: https://github.com/algorand/sandbox)
 
 ## Connecting to your node
-At the root of the directory, there is a file named `config.json`, which contains the addresses and tokens needed to connect to the Algod client, Indexer client, and KMD client. `config.json` is currently configured to connect to the sandbox API endpoints, but can be changes to connect to any Algorand node.
+At the root of the directory, there is a file named `config.json`, which contains the addresses and tokens needed to connect to the Algod client, Indexer client, and KMD client. `config.json` is currently configured to connect to the sandbox API endpoints, but can be changed to connect to any Algorand node.
 
 
 
